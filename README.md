@@ -1,5 +1,5 @@
 de.bsvrz.sys.funclib.communicationStreams v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.communicationStreams.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.communicationStreams)
-=================
+=================================================
 
 
 Bauen und Veröffentlichen
